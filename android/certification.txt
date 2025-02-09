@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the AI Tool 1.0
+---------------------------------------------------
+
+app_name - 						AI Tool
+app_alias - 					aitool
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Central Province
+app_author_country - 			Sri Lanka
+app_password - 					ZBWOrpZ2yNQn
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Sunday 9th of February 2025 05:54:02 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
